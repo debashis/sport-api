@@ -1,0 +1,158 @@
+{
+  "id": "1001",
+  "name": "Young Boys",
+  "lastUpdate": "2018-06-05T19:45:23.396+0200",
+  "managers": [
+    {
+      "id": "67107",
+      "name": "Hütter, Adolf"
+    }
+  ],
+  "players": [
+    {
+      "id": "4472",
+      "name": "Marco Wolfli",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "234956",
+      "name": "Marco Burki",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "4436",
+      "name": "Steve von Bergen",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "234958",
+      "name": "Leonardo Bertone",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "18784",
+      "name": "Miralem Sulejmani",
+      "nationality": "SRB",
+      "type": "player"
+    },
+    {
+      "id": "355652",
+      "name": "Djibril Sow",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "1013035",
+      "name": "Nicolas Brice Moumi Ngamaleu",
+      "nationality": "CMR",
+      "type": "player"
+    },
+    {
+      "id": "775475",
+      "name": "Christian Fassnacht",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "791795",
+      "name": "Roger Claver Djapone Assale",
+      "nationality": "CIV",
+      "type": "player"
+    },
+    {
+      "id": "231614",
+      "name": "Jean-Pierre Junior Nsame",
+      "nationality": "CMR",
+      "type": "player"
+    },
+    {
+      "id": "66219",
+      "name": "Thorsten Schick",
+      "nationality": "AUT",
+      "type": "player"
+    },
+    {
+      "id": "1046377",
+      "name": "Michel Aebischer",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "331465",
+      "name": "Gregory Wuthrich",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "67308",
+      "name": "Loris Benito",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "609706",
+      "name": "Kasim Adams Nuhu",
+      "nationality": "GHA",
+      "type": "player"
+    },
+    {
+      "id": "242883",
+      "name": "David von Ballmoos",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "985181",
+      "name": "Daniel Pedro Martinho Teixeira",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "841577",
+      "name": "Jordan Lotomba",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "126879",
+      "name": "Alexandre Letellier",
+      "nationality": "FRA",
+      "type": "player"
+    },
+    {
+      "id": "144745",
+      "name": "Sekou Junior Sanogo",
+      "nationality": "CIV",
+      "type": "player"
+    },
+    {
+      "id": "1097684",
+      "name": "Leo Seydoux",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "848726",
+      "name": "Dario Nicola Marzino",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "227900",
+      "name": "Melingo Kevin Mbabu",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "37230",
+      "name": "Guillaume Hoarau",
+      "nationality": "FRA",
+      "type": "player"
+    }
+  ],
+  "type": "team"
+}

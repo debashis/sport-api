@@ -1,0 +1,194 @@
+{
+  "id": "1004",
+  "name": "FC Zürich",
+  "lastUpdate": "2018-06-06T02:43:49.210+0200",
+  "managers": [
+    {
+      "id": 499,
+      "name": "Ludovic Magnin"
+    }
+  ],
+  "players": [
+    {
+      "id": "1060763",
+      "name": "Albin Sadrijaj",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "21818",
+      "name": "Andris Vanins",
+      "nationality": "LVA",
+      "type": "player"
+    },
+    {
+      "id": "1061111",
+      "name": "Lavdrim Rexhepi",
+      "nationality": "KOS",
+      "type": "player"
+    },
+    {
+      "id": "1061091",
+      "name": "Toni Domgjoni",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "89854",
+      "name": "Rasmus Thelander",
+      "nationality": "DNK",
+      "type": "player"
+    },
+    {
+      "id": "328075",
+      "name": "Armin Alesevic",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "87507",
+      "name": "Gudlaugur Victor Palsson",
+      "nationality": "ISL",
+      "type": "player"
+    },
+    {
+      "id": "37786",
+      "name": "Adrian Winter",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "119204",
+      "name": "Antonio Marchesano",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "134248",
+      "name": "Michael Frey",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "575956",
+      "name": "Raphael Dwamena",
+      "nationality": "GHA",
+      "type": "player"
+    },
+    {
+      "id": "4361",
+      "name": "Alain Nef",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "1325294",
+      "name": "Stephen Odey",
+      "nationality": "NGA",
+      "type": "player"
+    },
+    {
+      "id": "22513",
+      "name": "Umaru Bangura",
+      "nationality": "SLE",
+      "type": "player"
+    },
+    {
+      "id": "32768",
+      "name": "Pa Modou Jagne",
+      "nationality": "GMB",
+      "type": "player"
+    },
+    {
+      "id": "900698",
+      "name": "Yassin Maouche",
+      "nationality": "FRA",
+      "type": "player"
+    },
+    {
+      "id": "1061079",
+      "name": "Maren Haile-Selassie",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "934320",
+      "name": "Izer Aliu",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "556780",
+      "name": "Kevin Ruegg",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "1061109",
+      "name": "Fabian Rohner",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "791647",
+      "name": "Michael Kempter",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "111748",
+      "name": "Yanick Brecher",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "330689",
+      "name": "Cedric Brunner",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "24650",
+      "name": "Marco Schonbachler",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "355634",
+      "name": "Tobias Schattin",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "801012",
+      "name": "Pape Sangone Sarr",
+      "nationality": "SEN",
+      "type": "player"
+    },
+    {
+      "id": "355636",
+      "name": "Mirlind Kryeziu",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "1061075",
+      "name": "Enit Sadiku",
+      "nationality": "SRB",
+      "type": "player"
+    },
+    {
+      "id": "1061067",
+      "name": "Lindrit Kamberi",
+      "nationality": "CHE",
+      "type": "player"
+    },
+    {
+      "id": "70155",
+      "name": "Roberto Rodriguez Araya",
+      "nationality": "CHE",
+      "type": "player"
+    }
+  ],
+  "type": "team"
+}

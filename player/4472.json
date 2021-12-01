@@ -1,0 +1,18 @@
+{
+  "id": "4472",
+  "name": "Wölfli, Marco",
+  "birth": "1982-08-22T02:00:00.000+0200",
+  "height": "186",
+  "weight": "88",
+  "preferredFoot": "RIGHT",
+  "team": {
+    "id": "2445",
+    "name": "YB",
+    "type": "team"
+  },
+  "sport": {
+    "id": 1
+  },
+  "nationality": "CHE",
+  "type": "player"
+}

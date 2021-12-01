@@ -1,0 +1,842 @@
+[
+  {
+    "id": "14659275",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:10:00.000+0200",
+    "lastUpdate": "2018-06-06T15:04:34.558+0200",
+    "round": "1/16",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70978",
+      "name": "Hammamet, W-WITF-TUN-21A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "58547",
+          "name": "Spigarelli, Martina",
+          "url": "/-sid~scoreradar~team_58547.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "257181",
+          "name": "Maynetto, Natalia",
+          "url": "/-sid~scoreradar~team_257181.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659275.html",
+    "type": "match"
+  },
+  {
+    "id": "14659689",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:10:00.000+0200",
+    "lastUpdate": "2018-06-06T13:26:34.388+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70910",
+      "name": "Surbiton, W-WITF-GBR-03A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "25070",
+          "name": "Ahn, Kristie",
+          "url": "/-sid~scoreradar~team_25070.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "125016",
+          "name": "Lao, Danielle",
+          "url": "/-sid~scoreradar~team_125016.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659689.html",
+    "type": "match"
+  },
+  {
+    "id": "14687073",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:15:00.000+0200",
+    "lastUpdate": "2018-06-06T14:09:34.535+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70961",
+      "name": "Banja Luka, Doppel W-WITF-BIH-01A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "446167",
+          "name": "Kajevic E / Topcic I",
+          "url": "/-sid~scoreradar~team_446167.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "446269",
+          "name": "Gal A / Glavas S",
+          "url": "/-sid~scoreradar~team_446269.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14687073.html",
+    "type": "match"
+  },
+  {
+    "id": "14686687",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:15:00.000+0200",
+    "lastUpdate": "2018-06-06T13:40:34.405+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70911",
+      "name": "Surbiton, Doppel W-WITF-GBR-03A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "446329",
+          "name": "Adamczak M / Robson L",
+          "url": "/-sid~scoreradar~team_446329.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "445655",
+          "name": "Muhammad A / Neel I",
+          "url": "/-sid~scoreradar~team_445655.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686687.html",
+    "type": "match"
+  },
+  {
+    "id": "14686653",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:15:00.000+0200",
+    "lastUpdate": "2018-06-06T15:06:34.610+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "72",
+      "name": "Challenger"
+    },
+    "tournament": {
+      "id": "69328",
+      "name": "Prostejov, Czech Republic",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "41857",
+          "name": "Vesely, Jiri",
+          "url": "/-sid~scoreradar~team_41857.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "83661",
+          "name": "Ymer, Elias",
+          "url": "/-sid~scoreradar~team_83661.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686653.html",
+    "type": "match"
+  },
+  {
+    "id": "14659873",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:15:00.000+0200",
+    "lastUpdate": "2018-06-06T15:06:34.477+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "1474",
+      "name": "Junioren"
+    },
+    "tournament": {
+      "id": "70545",
+      "name": "French Open, Junioren Doppel",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "373572",
+          "name": "Baez S / Seyboth Wild T",
+          "url": "/-sid~scoreradar~team_373572.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "445693",
+          "name": "Cerundolo, J M / Zink, T",
+          "url": "/-sid~scoreradar~team_445693.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659873.html",
+    "type": "match"
+  },
+  {
+    "id": "14686707",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T14:41:34.579+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "72",
+      "name": "Challenger"
+    },
+    "tournament": {
+      "id": "69329",
+      "name": "Prostejov, Czech Republic, Doubles",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "445677",
+          "name": "Karlovskiy E / Olivo R",
+          "url": "/-sid~scoreradar~team_445677.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "423593",
+          "name": "Gengel M / Kellovsky D",
+          "url": "/-sid~scoreradar~team_423593.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686707.html",
+    "type": "match"
+  },
+  {
+    "id": "14686699",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:35.029+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "785",
+      "name": "ITF Männer"
+    },
+    "tournament": {
+      "id": "70973",
+      "name": "Italien F13, Doppel",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "445683",
+          "name": "Ragazzi A / Sardella E",
+          "url": "/-sid~scoreradar~team_445683.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "224330",
+          "name": "Antonescu V / Apostol B I",
+          "url": "/-sid~scoreradar~team_224330.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686699.html",
+    "type": "match"
+  },
+  {
+    "id": "14686651",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T13:50:34.287+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70949",
+      "name": "Tel Aviv, Doppel W-WITF-ISR-06A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "446989",
+          "name": "Cadar E-T / Ekshibarova V",
+          "url": "/-sid~scoreradar~team_446989.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "288295",
+          "name": "Lodzki S / Nadel N",
+          "url": "/-sid~scoreradar~team_288295.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686651.html",
+    "type": "match"
+  },
+  {
+    "id": "14686637",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.814+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "785",
+      "name": "ITF Männer"
+    },
+    "tournament": {
+      "id": "70973",
+      "name": "Italien F13, Doppel",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "160840",
+          "name": "Borsos G / Nagy P",
+          "url": "/-sid~scoreradar~team_160840.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "164026",
+          "name": "Siimar K / Siimar M",
+          "url": "/-sid~scoreradar~team_164026.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686637.html",
+    "type": "match"
+  },
+  {
+    "id": "14659555",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.636+0200",
+    "round": "1/16",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70933",
+      "name": "Brescia, W-WITF-ITA-15A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "40987",
+          "name": "Jani, Reka-Luca",
+          "url": "/-sid~scoreradar~team_40987.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "100175",
+          "name": "Halbauer, Elizabeth",
+          "url": "/-sid~scoreradar~team_100175.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659555.html",
+    "type": "match"
+  },
+  {
+    "id": "14659563",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.495+0200",
+    "round": "1/16",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70933",
+      "name": "Brescia, W-WITF-ITA-15A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "25069",
+          "name": "Schäfer, Anne",
+          "url": "/-sid~scoreradar~team_25069.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "51651",
+          "name": "Rosatello, Camilla",
+          "url": "/-sid~scoreradar~team_51651.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659563.html",
+    "type": "match"
+  },
+  {
+    "id": "14659377",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.426+0200",
+    "round": "1/16",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70945",
+      "name": "Stare Splavy, W-WITF-CZE-03A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "54175",
+          "name": "Zimmermann, Kimberley",
+          "url": "/-sid~scoreradar~team_54175.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "113079",
+          "name": "Grabher, Julia",
+          "url": "/-sid~scoreradar~team_113079.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659377.html",
+    "type": "match"
+  },
+  {
+    "id": "14659273",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.296+0200",
+    "round": "1/16",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70978",
+      "name": "Hammamet, W-WITF-TUN-21A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "51591",
+          "name": "Echeverria Alam, Nadia",
+          "url": "/-sid~scoreradar~team_51591.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "175590",
+          "name": "Boudjadi, Hanine",
+          "url": "/-sid~scoreradar~team_175590.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659273.html",
+    "type": "match"
+  },
+  {
+    "id": "14659127",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:20:00.000+0200",
+    "lastUpdate": "2018-06-06T15:08:34.561+0200",
+    "round": "Viertelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70949",
+      "name": "Tel Aviv, Doppel W-WITF-ISR-06A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "379152",
+          "name": "Jastrzebska P / Stepan C",
+          "url": "/-sid~scoreradar~team_379152.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "445591",
+          "name": "Glushko L / Tahan M",
+          "url": "/-sid~scoreradar~team_445591.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659127.html",
+    "type": "match"
+  },
+  {
+    "id": "14663597",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:25:00.000+0200",
+    "lastUpdate": "2018-06-06T14:51:34.507+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "72",
+      "name": "Challenger"
+    },
+    "tournament": {
+      "id": "69331",
+      "name": "Surbiton, Great Britain",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "58369",
+          "name": "Bolt, Alex",
+          "url": "/-sid~scoreradar~team_58369.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "22967",
+          "name": "Bhambri, Yuki",
+          "url": "/-sid~scoreradar~team_22967.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14663597.html",
+    "type": "match"
+  },
+  {
+    "id": "14686981",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:30:00.000+0200",
+    "lastUpdate": "2018-06-06T15:05:34.465+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "213",
+      "name": "ITF Frauen"
+    },
+    "tournament": {
+      "id": "70979",
+      "name": "Hammamet, Doppel W-WITF-TUN-21A",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "447081",
+          "name": "Chavez Tello R Z / Shepita A",
+          "url": "/-sid~scoreradar~team_447081.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "447083",
+          "name": "Peddi Reddy S V / Prati F",
+          "url": "/-sid~scoreradar~team_447083.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14686981.html",
+    "type": "match"
+  },
+  {
+    "id": "14659831",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:30:00.000+0200",
+    "lastUpdate": "2018-06-06T15:04:34.418+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "871",
+      "name": "WTA 125K"
+    },
+    "tournament": {
+      "id": "67210",
+      "name": "Bol, Croatia, Doubles",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "446413",
+          "name": "Knoll X / Voracova R",
+          "url": "/-sid~scoreradar~team_446413.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "446415",
+          "name": "Ruse E / Thombare P",
+          "url": "/-sid~scoreradar~team_446415.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659831.html",
+    "type": "match"
+  },
+  {
+    "id": "14659851",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:30:00.000+0200",
+    "lastUpdate": "2018-06-06T14:59:34.310+0200",
+    "round": "Achtelfinale",
+    "category": {
+      "id": "1474",
+      "name": "Junioren"
+    },
+    "tournament": {
+      "id": "70545",
+      "name": "French Open, Junioren Doppel",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "445709",
+          "name": "Styler, O / Tajima, N",
+          "url": "/-sid~scoreradar~team_445709.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "445713",
+          "name": "Mayot, H / Royer, V",
+          "url": "/-sid~scoreradar~team_445713.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659851.html",
+    "type": "match"
+  },
+  {
+    "id": "14659627",
+    "status": "UNAVAILABLE",
+    "date": "2018-06-06T15:30:00.000+0200",
+    "lastUpdate": "2018-06-06T14:54:35.251+0200",
+    "round": "1/16",
+    "category": {
+      "id": "871",
+      "name": "WTA 125K"
+    },
+    "tournament": {
+      "id": "67209",
+      "name": "Bol, Croatia",
+      "sport": {
+        "id": 5,
+        "name": "Tennis"
+      }
+    },
+    "opponentsData": [
+      {
+        "opponent": {
+          "id": "54259",
+          "name": "Bonaventure, Ysaline",
+          "url": "/-sid~scoreradar~team_54259.html",
+          "type": "team"
+        },
+        "scores": []
+      },
+      {
+        "opponent": {
+          "id": "46465",
+          "name": "Cadantu, Alexandra",
+          "url": "/-sid~scoreradar~team_46465.html",
+          "type": "team"
+        },
+        "scores": []
+      }
+    ],
+    "scores": [],
+    "url": "/-sid~scoreradar~14659627.html",
+    "type": "match"
+  }
+]

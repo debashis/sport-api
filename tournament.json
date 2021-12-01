@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Super League 2018",
+    "lastUpdate": "2018-05-27T22:18:01.700+0200",
+    "sport": {
+      "id": 1,
+      "name": "Football"
+    },
+    "teams": [
+      {
+        "team": {
+          "id": "1001",
+          "name": "YB"
+        },
+        "position": "1",
+        "points": "84",
+        "win": "26",
+        "goalsFor": "84",
+        "goalsAgainst": "41",
+        "draw": "6",
+        "loss": "4",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "2501",
+          "name": "Basel"
+        },
+        "position": "2",
+        "points": "69",
+        "win": "20",
+        "goalsFor": "72",
+        "goalsAgainst": "36",
+        "draw": "9",
+        "loss": "7",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "2453",
+          "name": "Luzern"
+        },
+        "position": "3",
+        "points": "54",
+        "win": "15",
+        "goalsFor": "51",
+        "goalsAgainst": "51",
+        "draw": "9",
+        "loss": "12",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "1004",
+          "name": "Zürich"
+        },
+        "position": "4",
+        "points": "49",
+        "win": "12",
+        "goalsFor": "50",
+        "goalsAgainst": "44",
+        "draw": "13",
+        "loss": "11",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "2442",
+          "name": "St. Gallen"
+        },
+        "position": "5",
+        "points": "45",
+        "win": "14",
+        "goalsFor": "52",
+        "goalsAgainst": "72",
+        "draw": "3",
+        "loss": "19",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "2452",
+          "name": "Sion"
+        },
+        "position": "6",
+        "points": "42",
+        "win": "11",
+        "goalsFor": "53",
+        "goalsAgainst": "56",
+        "draw": "9",
+        "loss": "16",
+        "matches": "36"
+      },
+      {
+        "team": {
+          "id": "2454",
+          "name": "Thun"
+        },
+        "position": "7",
+        "points": "42",
+        "win": "12",
+        "goalsFor": "53",
+        "goalsAgainst": "68",
+        "draw": "6",
+        "loss": "18",
+        "matches": "36"
+      }
+    ]
+  }
+]
