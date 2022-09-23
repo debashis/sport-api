@@ -7,3 +7,12 @@ services:
       - ./:/usr/share/nginx/html:ro
     ports:
       - '8333:80'
+
+# Use the following network configuration to join in existing docker network where cook is running. In such a case cook can access the api using http://nginx/tournament.json. You have to change the name of the external network accordingly
+# Following docker commands are your friend
+# docker network list 
+# docker inspect network <network-name>
+#networks:
+#  default:
+#    name: vanilla_cuenet
+#    external: true
